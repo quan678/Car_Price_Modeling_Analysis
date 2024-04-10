@@ -3,5 +3,4 @@ SELECT
 	*
 FROM
 	employees
-LIMIT 20;
-    
+LIMIT 20;   
