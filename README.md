@@ -1,0 +1,2 @@
+In this project, I use Python and its associated libraries, Pandas and Numpy to perform data cleaning and preprocessing to the Car Price dataset on Kaggle, with the help of advanced tools such as Lambda function and the generation of dummy variable.
+Next, I use Matplotlib and Seaborn for data visualization and data interpretation, crafting histogram to show price distribution and bar line chart to display correlation between car prices and its features.
