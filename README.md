@@ -6,7 +6,7 @@ This project is dedicated to analyze the car market and predicts car values base
 ## Objectives
 - **Data Cleaning:** Standardize and clean the dataset to ensure accuracy and usability for analysis.
 - **Exploratory Data Analysis (EDA):** Employ statistical and visualization tools to understand the data’s underlying patterns and relationships.
-- **Predictive Modeling:** Develop and tune models that can accurately predict car prices based on the features identified during EDA.
+- **Predictive Modeling:** Develop and tune visualizations that reflects the correlation between car values and other factors based on the features identified during EDA.
 
 ## Tools Used
 - **Pandas & NumPy:** For data manipulation and numerical operations.
