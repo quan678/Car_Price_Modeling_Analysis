@@ -1,7 +1,7 @@
-# Car Price Prediction Project
+# Car Market Analysis
 
 ## Overview
-This project is dedicated to building a robust model that predicts car prices based on a variety of attributes such as make, model, year, and specifications. Our approach includes comprehensive data cleaning, exploratory data analysis (EDA), and the application of machine learning techniques to derive insights and predictive accuracy.
+This project is dedicated to analyze the car market and predicts car values based on a variety of attributes such as make, model, year, and specifications. The approach includes comprehensive data cleaning, exploratory data analysis (EDA) to derive insights and predictive accuracy.
 
 ## Objectives
 - **Data Cleaning:** Standardize and clean the dataset to ensure accuracy and usability for analysis.
